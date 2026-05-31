@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchfarse",
+        "uuid": 19323660,
+        "checksum": "rbdvvf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
